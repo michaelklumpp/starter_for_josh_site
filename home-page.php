@@ -12,7 +12,7 @@
 <p class="particle"><?php the_field('subtitleforaboutme'); ?></p>
 <p class="about-text"><?php the_field('paragraphforaboutme'); ?></p>
 
-          <div class="blocker"></div>
+          <div class="blocker animated fadeInLeft"></div>
         </div> 
       </section>
 
