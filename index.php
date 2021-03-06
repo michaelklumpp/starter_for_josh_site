@@ -8,7 +8,7 @@ query_posts('cat=3');//look for posts that have the category of 2
 if(have_posts()) ://if we have posts to display
 while(have_posts()) :the_post();//LOOP through all the posts and find the one that has a category of 2 get thet title and content
 ?>
-<h2><a href="<?php the_permalink(); ?>"><?php the_title();?></a></h2> 
+<h2 class="animated fadeinLeft"><a href="<?php the_permalink(); ?>"><?php the_title();?></a></h2> 
             <div><p class="about-text"><?php the_content() ?></p></div>
 <?php
 endwhile;
