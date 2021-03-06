@@ -20,7 +20,7 @@
               <h3 class="text-center article-title">LATEST ARTICLES</h3>
             </div>
             <div class="col-md-4 article-cent">
-              <img class="img-responsive" src="images/portrait.jpg" alt="portrait">
+              <img class="img-responsive" src="http://206.189.45.97/~mesh12/wp-content/themes/starter_for_josh_site/images/portrait.jpg" alt="portrait">
               <h4>PORTRAIT</h4>
               <p class="date">12 December 2020</p>
               <p>STS has never been shy of seeking new terrains of  investigation. 
@@ -32,7 +32,7 @@
               <p class="readmore">CONTINUE READING</p>
             </div>
             <div class="col-md-4 article-cent">
-              <img class="img-responsive" src="images/portrait.jpg" alt="portrait">
+              <img class="img-responsive" src="http://206.189.45.97/~mesh12/wp-content/themes/starter_for_josh_site/images/portrait.jpg" alt="portrait">
               <h4>A DESIGN</h4>
               <p class="date">12 December 2020</p>
               <p>STS has never been shy of seeking new terrains of  investigation. 
@@ -44,7 +44,7 @@
               <p class="readmore">CONTINUE READING</p>
             </div>
             <div class="col-md-4 article-cent">
-              <img class="img-responsive" src="images/portrait.jpg" alt="portrait">
+              <img class="img-responsive" src="http://206.189.45.97/~mesh12/wp-content/themes/starter_for_josh_site/images/portrait.jpg" alt="portrait">
               <h4>GAME DESIGN</h4>
               <p class="date">12 December 2020</p>
               <p>STS has never been shy of seeking new terrains of  investigation. 
