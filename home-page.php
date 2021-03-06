@@ -23,7 +23,7 @@
             <h3 class="text-center article-title "><?php the_field('titleforarticles'); ?></h3>
             </div>
             <div class="col-md-4 article-cent">
-            <img class="img-responsive" alt=“portait” src="<?php the_field('articleimage'); ?>">
+            <img class="img-responsive" alt=“portrait” src="<?php the_field('articleimage'); ?>">
                     <h4>
                         <?php the_field('articletitle'); ?>
                     </h4>
@@ -33,22 +33,22 @@
                 <a href="<?php the_field('readmore'); ?>" class="readmore">CONTINUE READING</a>
             </div>
             <div class="col-md-4 article-cent">
-            <img class="img-responsive" alt=“portait” src="<?php the_field('articleimage'); ?>">
+            <img class="img-responsive" alt=“model” src="<?php the_field('articleimage1'); ?>">
                     <h4>
-                        <?php the_field('articletitle'); ?>
+                        <?php the_field('articletitle1'); ?>
                     </h4>
                     <p>
-                        <?php the_field('articleexcerpt'); ?>
+                        <?php the_field('articleexcerpt1'); ?>
                     </p>
                 <a href="<?php the_field('readmore'); ?>" class="readmore">CONTINUE READING</a>
             </div>
             <div class="col-md-4 article-cent">
-            <img class="img-responsive" alt=“portait” src="<?php the_field('articleimage'); ?>">
+            <img class="img-responsive" alt=“racetrack” src="<?php the_field('articleimage2'); ?>">
                     <h4>
-                        <?php the_field('articletitle'); ?>
+                        <?php the_field('articletitle2'); ?>
                     </h4>
                     <p>
-                        <?php the_field('articleexcerpt'); ?>
+                        <?php the_field('articleexcerpt2'); ?>
                     </p>
                 <a href="<?php the_field('readmore'); ?>" class="readmore">CONTINUE READING</a>
             </div>
