@@ -39,10 +39,11 @@ function sk_wow_init_in_footer() {
 
 }
 
-function wow_init(){ ?>
+function wow_init() { ?>
     <script type="text/javascript">
 
     new WOW().init();
+
     </script>
 
 <?php }
