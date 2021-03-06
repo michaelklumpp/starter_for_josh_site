@@ -40,7 +40,7 @@ a:hover{
 }
 
 .herobg {
-    background: url(images/header-bg.jpg);
+    background: url(http://206.189.45.97/~mesh12/wp-content/themes/starter_for_josh_site/images/header-bg.jpg);
     background-size: cover;
 }
 
@@ -125,7 +125,7 @@ h4{
 }
 
 footer{
-    background-image: url(images/footer-bg.jpg);
+    background-image: url(http://206.189.45.97/~mesh12/wp-content/themes/starter_for_josh_site/images/footer-bg.jpg);
     background-size: cover;
     width: 100%;
     background-position: center center;
