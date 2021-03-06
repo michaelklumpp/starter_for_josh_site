@@ -40,8 +40,15 @@ a:hover{
 }
 
 .herobg {
-    background: url(http://206.189.45.97/~mesh12/wp-content/themes/starter_for_josh_site/images/header-bg.jpg);
+    background: url(images/header-bg.jpg);
     background-size: cover;
+}
+
+.small-herobg {
+    background: url(images/small-header-bg.jpg);
+    background-size: cover;
+    height: 40vh;
+    width: 100%;
 }
 
 .herobg h1 {
