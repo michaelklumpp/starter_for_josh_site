@@ -20,7 +20,7 @@
         <div class="container">
           <div class="row">
           <div class="article-title text-center">
-            <h3 class="text-center article-title "><?php the_field('titleforarticles'); ?></h3>
+            <h3 class="text-center article-title wow animate__fadeInUp"><?php the_field('titleforarticles'); ?></h3>
             </div>
             <div class="col-md-4 article-cent">
             <img class="img-responsive" alt=“portrait” src="<?php the_field('articleimage'); ?>">
