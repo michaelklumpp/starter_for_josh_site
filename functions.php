@@ -31,7 +31,7 @@ add_filter('nav_menu_css_class', 'add_menu_list_item_class', 1, 3);
 	}
 ?>
 <?php
-add_action('wp_enqueue_scripts', 'ask_wow_init_in_footer');
+add_action('wp_enqueue_scripts', 'sk_wow_init_in_footer');
 
 function sk_wow_init_in_footer() {
 
