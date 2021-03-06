@@ -59,6 +59,6 @@
 
       
         <div class="container">
-        <h1><?php the_field('maintagline'); ?></h1>
+        <h1 class="animated fadeInLeft"><?php the_field('maintagline'); ?></h1>
         </div>
       </header>
